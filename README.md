@@ -1,3 +1,3 @@
 # React Router
 
-Simple app to learn React Router and Redux
+Small blog app highlighting fundamentals with React Router and Redux
