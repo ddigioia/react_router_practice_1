@@ -1,3 +1,3 @@
 # React Router
 
-Small blog app highlighting fundamentals with React Router and Redux
+Small blog app highlighting the fundamentals of React Router and Redux
